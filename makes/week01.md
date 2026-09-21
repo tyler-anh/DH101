@@ -1,8 +1,8 @@
 # Week 1 – Reverse Engineering
 
 ## The Artifact
-Describe or embed your artifact here.
-Include images, links, or media as appropriate.
+Reverse-Engineering a DH / AI Project
+Links: https://openai.com/dall-e
 
 ## Process Notes
 How did you make this?

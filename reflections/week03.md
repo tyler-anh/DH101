@@ -2,3 +2,5 @@
 # Week 3 Reflection
 
 Reflect 3: What does “authenticity” mean when identity is co-constructed with AI?
+
+At its most fundamental level, data is the raw material and root of every AI model. Consequently, an AI's output is typically considered authentic only when its training data stems from reliable, verifiable sources. In traditional contexts, authenticity is relatively straightforward to establish; scientific laws or peer-reviewed research papers, for example, can be easily corroborated by existing evidence and cross-referenced by others. However, this definition becomes far more complicated when human identity is co-constructed with artificial intelligence. Because the vast datasets used to train these models are often opaque, it is difficult to trace exactly where the information originates, leaving us uncertain whether the AI-influenced aspects of identity are genuinely authentic or merely synthesized patterns. Ultimately, to define what "authenticity" truly means when our identities are deeply intertwined with AI, we must first demand transparency and achieve a clear understanding of the data origins shaping those systems.
