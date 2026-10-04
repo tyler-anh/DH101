@@ -2,8 +2,8 @@
 
 ## The Artifact
 Selfie & Identity
-The generated image using ChatGPT: ![alt text](image-2.png)
-The modified image using Canva AI: ![alt text](image-1.png)    
+The generated image using ChatGPT: ![alt text](assets/images/image-2.png)
+The modified image using Canva AI: ![alt text](assets/images/image-1.png)    
 
 ## Process Notes
 How did you make this?

@@ -2,7 +2,7 @@
 
 ## The Artifact
 This six-panel comic tells the story of a student who procrastinates on an essay until the last minute and turns to AI for a quick solution. Although he successfully completes the assignment, his teacher recognizes that the essay was AI-generated and reminds him that AI should support learning rather than replace his own thinking, creativity, and effort.
-![alt text](image.png)
+![alt text](assets/images/image.png)
 
 ## Process Notes
 -How did you make this?
