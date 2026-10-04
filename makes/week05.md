@@ -1,8 +1,8 @@
 # Week 5 – GIF & Remix Culture
 
 ## The Artifact
-The GIF is a short visual transition between two very different images. It begins with a dark, low-resolution image of a horse-headed figure standing against a bright wall. After about one second, the screen suddenly flares into an intense white light. The brightness expands across the image and briefly obscures everything. As the light fades, the first image is replaced by a clear outdoor photograph of two people standing beside a building. The GIF lasts approximately four seconds and creates a strong contrast between the strange, surreal first image and the realistic second image.
-![alt text](assets/images/bright_flash_transition-ezgif.com-video-to-gif-converter.gif)
+The GIF is a short visual transition between two very different images. It begins with a dark, low-resolution image of a horse-headed figure standing against a bright wall. After about one second, the screen suddenly flares into an intense white light. The brightness expands across the image and briefly obscures everything. As the light fades, the first image is replaced by a clear outdoor photograph of two people standing beside a building. The GIF lasts approximately four seconds and creates a strong contrast between the strange, surreal first image and the realistic second image. 
+![alt text](bright_flash_transition-ezgif.com-video-to-gif-converter.gif)
 
 ## Process Notes
 How did you make this?
