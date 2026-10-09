@@ -1,0 +1,3 @@
+<iframe style='width: 835px; height: 742px;' src='https://voyant-tools.org/tool/Trends/?query=project&query=gutenberg&query=work&query=works&query=electronic&mode=document&corpus=7de05488dbaee6b0fe697dcdd67ff739'></iframe>
+
+<iframe style='width: 835px; height: 742px;' src='https://voyant-tools.org/tool/Links/?query=gutenberg&query=project&query=work&query=works&query=electronic&query=terms&query=agreement&query=foundation&query=literary&query=information&query=copyright&query=copy&query=means&query=archive&query=written&query=received&query=medium&query=person&query=return&query=section&query=explanation&query=refund&query=phrase&query=associated&query=viewed&context=30&corpus=7de05488dbaee6b0fe697dcdd67ff739'></iframe>
