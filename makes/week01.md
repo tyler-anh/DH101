@@ -2,7 +2,7 @@
 
 ## The Artifact
 Reverse-Engineering a DH / AI Project
-Links: https://openai.com/dall-e
+[Open Dall-E Project](https://openai.com/dall-e)
 
 ## Process Notes
 How did you make this?

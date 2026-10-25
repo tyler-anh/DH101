@@ -2,8 +2,8 @@
 
 ## The Artifact
 Selfie & Identity
-The generated image using ChatGPT: ![alt text](assets/images/image-2.png)
-The modified image using Canva AI: ![alt text](assets/images/image-1.png)    
+The generated image using ChatGPT: ![A close-up selfie of a student wearing a black T-shirt with a pink Tokyo label in a dorm room. A loft bed with blue bedding, open clothing storage, shelves, and a small fan are visible in the background.](assets/images/image-2.png)
+The modified image using Canva AI: ![A student takes a selfie in a dorm room, wearing a black T-shirt with a pink Tokyo label. Behind the student are a blue-bedded loft bed, clothing storage, shelves, and a small fan.](assets/images/image-1.png)    
 
 ## Process Notes
 How did you make this?

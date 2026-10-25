@@ -2,7 +2,9 @@
 
 **Student:** Anh Tu Le  
 **Interactive map:** [AI Digital Map - The Hidden Geographies of AI Infrastructure](https://www.google.com/maps/d/u/0/view?mid=1v4k-2_PIpNq3_-zrMgrvt-43CkSHezA&usp=sharing)  
-**Week 7 website:** [https://tyler-anh.github.io/DH101/makes/week07](https://tyler-anh.github.io/DH101/makes/week07)
+<iframe src="https://www.google.com/maps/d/embed?mid=1v4k-2_PIpNq3_-zrMgrvt-43CkSHezA&ehbc=2E312F" width="640" height="480"></iframe>
+
+**Week 7 website:** [Open Week 7 Website](https://tyler-anh.github.io/DH101/makes/week07)
 
 ---
 ## 1. Research Documentation
