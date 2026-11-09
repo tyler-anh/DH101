@@ -1,11 +1,11 @@
 # Week 10 – Games & Play
 
 ## The Artifact
-[Open in new tab](/Users/leanhtu/Denison/DH101/DH101/makes/assets/html/The%20Interview%20That%20Learns%20You.html)
+[Open in new tab](assets/The_Interview_That_Learns_You.html)
 
 Play-in-page (below):
 <iframe
-  src="/Users/leanhtu/Denison/DH101/DH101/makes/assets/html/The%20Interview%20That%20Learns%20You.html"
+  src="assets/The_Interview_That_Learns_You.html"
   width="100%"
   height="700"
   style="border: 0;"
