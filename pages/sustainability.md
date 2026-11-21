@@ -60,7 +60,7 @@ I mainly use ChatGPT as an academic and project-support tool. The available rece
 
 I reconstructed a partial seven-day record for November 14–20, 2026 from the conversation information available to me. It contains **at least five visible task requests**: two on November 14, one on November 15, and two on November 20. The available record does not provide a full account-wide prompt count. November 16–19 have no dated usage details surfaced, so I have marked them unknown rather than zero.
 
-Using the assignment’s 4.55 g CO₂/query estimate only as an illustrative scenario, five visible task requests would correspond to **22.75 g CO₂** (5 × 4.55 g). This is not a measured weekly footprint: the task-request count is incomplete, a task may include multiple model calls, and 4.55 g is not a verified universal ChatGPT emissions factor. I have not added image, video, or audio emissions because the surfaced records do not establish user-requested generations of those types during this period. The [personal AI usage tracker](personal_ai_usage_tracker.md) explains the method and limitations.
+Using the assignment’s 4.55 g CO₂/query estimate only as an illustrative scenario, five visible task requests would correspond to **22.75 g CO₂** (5 × 4.55 g). This is not a measured weekly footprint: the task-request count is incomplete, a task may include multiple model calls, and 4.55 g is not a verified universal ChatGPT emissions factor. I have not added image, video, or audio emissions because the surfaced records do not establish user-requested generations of those types during this period.
 
 ### What I am willing to change
 
