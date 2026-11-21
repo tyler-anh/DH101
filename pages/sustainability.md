@@ -9,7 +9,7 @@
 
 ## The hidden carbon cost of a model
 
-![The hidden carbon cost of a model: GPT-3 training estimate and household and flight comparisons](makes/assets/images/carbon_footprint_visualization.png)
+![The hidden carbon cost of a model: GPT-3 training estimate and household and flight comparisons](image.png)
 
 ### GPT-3 training estimate
 
